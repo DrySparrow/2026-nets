@@ -1,9 +1,10 @@
 {
-  "GRAPHHOPPER_API_KEY": "bb978f63-12ab-413a-bac7-be77bd730b45",
+  "USER_AGENT": "MyLabApp/1.0 (mtr.art@mail.ru) requests/2.x",
   "GET_COORDS_URL": "https://graphhopper.com/api/1/geocode",
   "GET_INTERESTING_PLACES_URL": "https://ru.wikipedia.org/w/api.php",
-  "GET_INTERESTING_PLACES_RADIUS": 10000,
   "GET_WEATHER_URL": "https://api.met.no/weatherapi/locationforecast/2.0/compact",
   "GET_PLACE_DESCRIPTION_URL": "https://ru.wikipedia.org/w/api.php",
-  "USER_AGENT": "MyLabApp/1.0 (mtr.art@mail.ru) requests/2.x"
+  "GRAPHHOPPER_API_KEY": "bb978f63-12ab-413a-bac7-be77bd730b45",
+  "GET_INTERESTING_PLACES_RADIUS": 10000,
+  "GS_LIMIT": 5
 }
